@@ -9,14 +9,14 @@ qBittorrent - A BitTorrent client in Qt
 qBittorrent is a bittorrent client programmed in C++ / Qt that uses
 libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
 
-It aims to be a good alternative to all other bittorrent clients
-out there. qBittorrent is fast, stable and provides unicode
+It aims to be a good alternative to all other BitTorrent clients
+out there. qBittorrent is fast, stable and provides Unicode
 support as well as many features.
 
 The free [IP to Country Lite database](https://db-ip.com/db/download/ip-to-country-lite) by [DB-IP](https://db-ip.com/) is used for resolving the countries of peers. The database is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ### Installation:
-For installation, follow the instructions from INSTALL file, but simple:
+For installation, follow the instructions from the INSTALL file, but simple:
 
 ```
 ./configure
@@ -36,7 +36,7 @@ You can also download it from [here](https://github.com/qbittorrent/qBittorrent/
 For more information please visit:
 https://www.qbittorrent.org
 
-or our wiki here:
+or our Wiki here:
 https://wiki.qbittorrent.org
 
 Use the forum for troubleshooting before reporting bugs:
